@@ -29,4 +29,4 @@ MATLAB 2018b
 | Blue | Recovered |
 
 ## Result
-<p><img align="center" src="https://github.com/Sheikfarooq/Covid-19_simulation/blob/main/Covid_Simulation.gif" width="500" /></p>
+<p><img align="left" src="https://github.com/Sheikfarooq/Covid-19_simulation/blob/main/Covid_Simulation.gif" width="500" /></p>
