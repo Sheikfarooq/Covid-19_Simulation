@@ -19,7 +19,8 @@ Random 𝑣_x and 𝑣_𝑦 speeds in the interval [−1,1]
 10% of the individuals are initially infected, the others are healthy
 ## Tools
 
-MATLAB 2018b## Color Reference
+MATLAB 2018b
+## Color Reference
 
 | Color             | Description                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -27,4 +28,4 @@ MATLAB 2018b## Color Reference
 | Green | Healthy |
 | Blue | Recovered |
 
-
+## Result
